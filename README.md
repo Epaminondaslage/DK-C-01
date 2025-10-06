@@ -34,12 +34,6 @@ Explorando as Funções do Módulo Temporizador Programável DK-C-01
 O **módulo DK-C-01** é um **temporizador multifunção** com **display digital e três botões (S1, S2, S3)**.  
 Ele permite configurar tempos de **atraso de ativação, desligamento, ciclos repetitivos e modos de operação automáticos**.
 
-## 📘 Descrição Geral
-
-**Nome do produto:** Módulo de relé temporizador programável  
-**Modelo:** DK-C-01  
-**Fabricante:** Shenzhen Deek Technology Co., Ltd.  
-
 ### Especificações Técnicas
 
 | Parâmetro | Valor |
@@ -54,12 +48,16 @@ Ele permite configurar tempos de **atraso de ativação, desligamento, ciclos re
 | Peso | ~ 26 g |
 | Dimensões | 64,2 mm × 34,8 mm × 18,5 mm |
 
+---
+
 ### Recursos
 
 - Circuito de entrada com proteção contra inversão de polaridade.  
 - Isolamento óptico no sinal de entrada (alta imunidade a ruído).  
 - Memória permanente dos parâmetros configurados.  
 - MCU com programação online (pode ser personalizada pelo fabricante).  
+
+---
 
 ### Principais modos:
 
@@ -69,6 +67,8 @@ Ele permite configurar tempos de **atraso de ativação, desligamento, ciclos re
 - **P-2:** Temporização dupla (tempo de ligado + tempo de desligado).  
 - **P-3:** Ciclo automático (liga/desliga em loop).  
 - **P-4:** Atraso de ligação ao energizar.  
+
+---
 
 ### Principais Funções:
 
