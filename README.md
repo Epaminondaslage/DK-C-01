@@ -148,14 +148,15 @@ Possui proteção contra polaridade reversa e isolamento óptico no sinal de ent
 ### Capacidade de Saída
 
 Tipo de carga	Tensão máxima	Corrente máxima
-Corrente contínua (DC)	30 V	5 A
-Corrente alternada (AC)	220 V	5 A
+
+* Corrente contínua (DC)	30 V	5 A
+* Corrente alternada (AC)	220 V	5 A
 
 *Carga alimentada por 12 Vcc* 
-<img src="img/carga 12vcc.jpg" alt="carga 12vcc" width="40%">
+<img src="img/carga 12vcc.jpg" alt="carga 12vcc" width="50%">
 
 *Carga alimentada por Vca* 
-<img src="img/carga ca.jpg" alt="carga ca" width="40%">
+<img src="img/carga ca.jpg" alt="carga ca" width="50%">
 
 ---
 
