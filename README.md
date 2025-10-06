@@ -61,7 +61,7 @@ Ele permite configurar tempos de **atraso de ativação, desligamento, ciclos re
 
 ### Principais modos:
 
-<img src="img/pinout.jpg" alt="pinout" width="20%">
+<img src="img/pinout.jpg" alt="pinout" width="40%">
 
 - **P-1:** Temporizador simples (liga e desliga após o tempo).  
 - **P-2:** Temporização dupla (tempo de ligado + tempo de desligado).  
@@ -140,10 +140,10 @@ O módulo e o dispositivo podem compartilhar a mesma fonte de alimentação (12 
 Possui proteção contra polaridade reversa e isolamento óptico no sinal de entrada.
 
 *Carga alimentada por 12 Vcc* 
-<img src="img/carga 12vcc.jpg" alt="carga 12vcc" width="20%">
+<img src="img/carga 12vcc.jpg" alt="carga 12vcc" width="40%">
 
 *Carga alimentada por Vca* 
-<img src="img/carga ca.jpg" alt="carga ca" width="20%">
+<img src="img/carga ca.jpg" alt="carga ca" width="40%">
 
 ---
 
