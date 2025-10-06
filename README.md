@@ -1,6 +1,7 @@
 # CEFET-MG - Departamento de Engenharia Elétrica
-# Curso Técnico de Eletrotécnica
-# Disciplina Laboratório de Instalações Pediais
+## Curso Técnico de Eletrotécnica
+## Disciplina Laboratório de Instalações Pediais
+
 # Aula Prática – Módulo de Relé Temporizador Programável DK-C-01
 
 ## 🎯 **Título**
