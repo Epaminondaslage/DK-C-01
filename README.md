@@ -163,7 +163,7 @@ Tipo de carga	Tensão máxima	Corrente máxima
 ### 💾 Licença e Créditos
 
 Este documento é uma tradução técnica adaptada para documentação em GitHub.  
-Baseado no manual original: [*“Multifunction Timer Delay DK-C-01”*](manual timer.pdf).
+Baseado no manual original: [*“Multifunction Timer Delay DK-C-01”*](datasheet timer.pdf).
 
 ## 🧩 **Atividades Práticas**
 
