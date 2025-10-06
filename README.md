@@ -149,8 +149,8 @@ Possui proteção contra polaridade reversa e isolamento óptico no sinal de ent
 
 Tipo de carga	Tensão máxima	Corrente máxima
 
-* Corrente contínua (DC)	30 V	5 A
-* Corrente alternada (AC)	220 V	5 A
+* Corrente contínua (CC)	30 Vcc	5 A
+* Corrente alternada (CA)	127/220 Vca	5 A
 
 *Carga alimentada por 12 Vcc* 
 <img src="img/carga 12vcc.jpg" alt="carga 12vcc" width="50%">
@@ -163,7 +163,7 @@ Tipo de carga	Tensão máxima	Corrente máxima
 ### 💾 Licença e Créditos
 
 Este documento é uma tradução técnica adaptada para documentação em GitHub.  
-Baseado no manual original: *“Multifunction Timer Delay DK-C-01”*.
+Baseado no manual original: [*“Multifunction Timer Delay DK-C-01”*](manual timer.pdf).
 
 ## 🧩 **Atividades Práticas**
 
