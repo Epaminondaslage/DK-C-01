@@ -1,12 +1,13 @@
-# Módulo Relé Temporizador Programável
+# CEFET-MG - Departamento de Engenharia Elétrica
+## Curso Técnico de Eletrotécnica
+## Disciplina Laboratório de Instalações Pediais
 
-
-# 🧠 Aula Prática – Módulo de Relé Temporizador Programável DK-C-01
+# Aula Prática – Módulo de Relé Temporizador Programável DK-C-01
 
 ## 🎯 **Título**
 Explorando as Funções do Módulo Temporizador Programável DK-C-01
 
-<img src="img/modulo_rele.jpg" alt="Módulo Relé DK-C-01" width="50%">
+<img src="img/relay box.jpg" alt="Módulo Relé DK-C-01" width="20%">
 
 ---
 
@@ -33,12 +34,6 @@ Explorando as Funções do Módulo Temporizador Programável DK-C-01
 O **módulo DK-C-01** é um **temporizador multifunção** com **display digital e três botões (S1, S2, S3)**.  
 Ele permite configurar tempos de **atraso de ativação, desligamento, ciclos repetitivos e modos de operação automáticos**.
 
-## 📘 Descrição Geral
-
-**Nome do produto:** Módulo de relé temporizador programável  
-**Modelo:** DK-C-01  
-**Fabricante:** Shenzhen Deek Technology Co., Ltd.  
-
 ### Especificações Técnicas
 
 | Parâmetro | Valor |
@@ -53,6 +48,8 @@ Ele permite configurar tempos de **atraso de ativação, desligamento, ciclos re
 | Peso | ~ 26 g |
 | Dimensões | 64,2 mm × 34,8 mm × 18,5 mm |
 
+---
+
 ### Recursos
 
 - Circuito de entrada com proteção contra inversão de polaridade.  
@@ -60,12 +57,18 @@ Ele permite configurar tempos de **atraso de ativação, desligamento, ciclos re
 - Memória permanente dos parâmetros configurados.  
 - MCU com programação online (pode ser personalizada pelo fabricante).  
 
+---
+
 ### Principais modos:
+
+<img src="img/pinout.jpg" alt="pinout" width="40%">
 
 - **P-1:** Temporizador simples (liga e desliga após o tempo).  
 - **P-2:** Temporização dupla (tempo de ligado + tempo de desligado).  
 - **P-3:** Ciclo automático (liga/desliga em loop).  
 - **P-4:** Atraso de ligação ao energizar.  
+
+---
 
 ### Principais Funções:
 
@@ -73,6 +76,12 @@ Ele permite configurar tempos de **atraso de ativação, desligamento, ciclos re
 - Sistemas de ventilação com atraso.  
 - Iluminação temporizada.  
 - Controle de máquinas com pausa cíclica.
+- Automação residencial: acendimento automático de luzes, ventiladores, irrigação e cortinas.
+- Controle industrial: acionamento sequencial de motores e atuadores.
+- Temporizador de atraso: atraso de partida para equipamentos sensíveis.
+- Controle cíclico: sistemas de piscas, alarmes, ou equipamentos que exigem repetição de ciclos.
+
+*Projetos com Arduino, ESP32 e Raspberry Pi: controle de cargas com segurança elétrica isolada.* 
 
 ---
 
@@ -131,10 +140,22 @@ Ele permite configurar tempos de **atraso de ativação, desligamento, ciclos re
 
 ---
 
-## 🧩 Ligações
+## 🔌 Ligações
 
-O módulo e o dispositivo podem compartilhar a mesma fonte de alimentação (12 V DC).  
+O módulo e o dispositivo podem compartilhar a mesma fonte de alimentação (12 V DC) ou com gargas ligadas em CA.  
 Possui proteção contra polaridade reversa e isolamento óptico no sinal de entrada.
+
+### Capacidade de Saída
+
+Tipo de carga	Tensão máxima	Corrente máxima
+Corrente contínua (DC)	30 V	5 A
+Corrente alternada (AC)	220 V	5 A
+
+*Carga alimentada por 12 Vcc* 
+<img src="img/carga 12vcc.jpg" alt="carga 12vcc" width="40%">
+
+*Carga alimentada por Vca* 
+<img src="img/carga ca.jpg" alt="carga ca" width="40%">
 
 ---
 
