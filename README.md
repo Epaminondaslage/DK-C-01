@@ -1,4 +1,5 @@
-# CEFET-MG - Departamento de Engenharia Elétrica
+# CEFET-MG 
+## Departamento de Engenharia Elétrica
 ## Curso Técnico de Eletrotécnica
 ## Disciplina Laboratório de Instalações Pediais
 
