@@ -3,7 +3,7 @@
 ## Curso Técnico de Eletrotécnica
 ## Disciplina Laboratório de Instalações Pediais
 
-# Aula Prática – Módulo de Relé Temporizador Programável DK-C-01
+# Aula Prática – Minuteria Eletrônica-Módulo de Relé Temporizador Programável DK-C-01
 
 ## 🎯 **Título**
 Explorando as Funções do Módulo Temporizador Programável DK-C-01
@@ -17,6 +17,28 @@ Explorando as Funções do Módulo Temporizador Programável DK-C-01
 - Configurar e testar **diferentes modos de operação (P-1 a P-4)** do módulo DK-C-01.  
 - Aplicar o módulo em **situações práticas de automação**, como acionamento temporizado e controle cíclico de cargas.  
 - Desenvolver habilidades de **interpretação de datasheet** e **configuração de parâmetros de temporização**.
+
+--- 
+## Introdução
+
+Minuteria Eletrônica é um dispositivo temporizador utilizado para acionar uma carga elétrica por um tempo determinado após o acionamento de um interruptor, botão ou sensor. Após transcorrido o tempo programado, o circuito desliga automaticamente a carga, sem necessidade de intervenção manual.
+
+Esse tipo de sistema é amplamente usado em instalações elétricas prediais, automação e controle industrial, proporcionando economia de energia, praticidade e segurança.
+
+### ⚙️ Princípio de Funcionamento
+
+O funcionamento da minuteria eletrônica baseia-se em um circuito temporizador (geralmente com CI 555, microcontrolador, ou transistores) que inicia uma contagem regressiva a partir do momento em que recebe um sinal de ativação.
+
+- Quando o botão é pressionado ou o sensor é acionado, o circuito energiza a saída (relé, transistor ou TRIAC).
+- A carga (como uma lâmpada, motor ou fechadura elétrica) é alimentada.
+- Simultaneamente, um capacitor começa a carregar ou descarregar, determinando o tempo de funcionamento.
+- Ao final do período configurado, o circuito desativa a saída, interrompendo a energia da carga.
+
+O tempo de atuação pode variar de alguns segundos até vários minutos, dependendo dos valores dos componentes RC (resistores e capacitores) utilizados no projeto.
+
+O relé DK-C-01 é um relé temporizador eletrônico (minuteria industrial) utilizado para acionar cargas elétricas por tempo limitado, exatamente o mesmo princípio de funcionamento de uma minuteria eletrônica didática construída em bancada com componentes discretos e programáveis.
+
+Assim, o relé DK-C-01 representa a versão industrial e compacta do circuito de minuteria que o aluno pode desenvolver e compreender em laboratório.
 
 ---
 
