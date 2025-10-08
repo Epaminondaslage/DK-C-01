@@ -104,10 +104,6 @@ Ele permite configurar tempos de **atraso de ativação, desligamento, ciclos re
 
 ### 🔹 Modo P-1 — Temporizador Simples
 - Ao receber o sinal de disparo, o relé **liga**, aguarda o tempo configurado e **desliga**.
-- Sub-modos:
-  - **A1** — novo disparo durante a contagem é ignorado.  
-  - **A2** — novo disparo reinicia a contagem.  
-  - **A3** — novo disparo cancela a contagem e desliga o relé.  
 
 ---
 
@@ -133,10 +129,9 @@ Ele permite configurar tempos de **atraso de ativação, desligamento, ciclos re
 
 1. Pressione **S1** por 2 s → entra no menu de modos.  
 2. Use **S1** para escolher **P-1 ~ P-4**, confirme com **S2**.  
-3. Se aplicável, selecione sub-modo (A1 / A2 / A3) e confirme.  
-4. Ajuste o ponto decimal com **S3** (define unidade de tempo).  
-5. Use **S2** para escolher o dígito e **S3** para ajustar valores.  
-6. Confirme novamente com **S2** até parar o piscar do display.  
+3. Ajuste o ponto decimal com **S3** (define unidade de tempo).  
+4. Use **S2** para escolher o dígito e **S3** para ajustar valores.  
+5. Confirme novamente com **S2** até parar o piscar do display.  
 
 ---
 
@@ -176,11 +171,9 @@ Baseado no manual original: [*“Multifunction Timer Delay DK-C-01”*](datashee
 
 ### 🔹 **Atividade 2 – Modo P-1 (Temporizador Simples)**
 1. Pressione **S1 por 2 segundos** para entrar no menu e selecione **P-1**.  
-2. Escolha a variação **A1**, **A2** ou **A3**.  
-3. Ajuste um tempo de **5 segundos**.  
-4. Aplique o sinal de disparo (toque breve no botão TRIG).  
-5. Observe o comportamento do relé — ele deve ligar e desligar conforme o tempo configurado.  
-6. Registre o comportamento em cada variação A1, A2 e A3.
+2. Ajuste um tempo de **5 segundos**.  
+3. Aplique o sinal de disparo (toque breve no botão TRIG).  
+4. Observe o comportamento do relé — ele deve ligar e desligar conforme o tempo configurado.  
 
 ---
 
