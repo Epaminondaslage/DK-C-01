@@ -210,8 +210,7 @@ Baseado no manual original: [*“Multifunction Timer Delay DK-C-01”*](datashee
 1. Selecione **P-3** e escolha **A1**.  
 2. Configure X = 2 s (ligado) e Y = 2 s (desligado).  
 3. Observe o ciclo repetitivo (pisca-pisca contínuo).  
-4. Alterne para **A2** e analise a diferença no comportamento.  
-5. Discuta possíveis aplicações desse modo (ex: sinalização, intermitência de bomba ou motor).
+4. Discuta possíveis aplicações desse modo (ex: sinalização, intermitência de bomba ou motor).
 
 ---
 
@@ -221,11 +220,6 @@ Baseado no manual original: [*“Multifunction Timer Delay DK-C-01”*](datashee
 3. Desligue e ligue a fonte.  
 4. Observe que o relé só é acionado **após** o tempo configurado.  
 5. Discuta aplicações práticas (ex: partida retardada de equipamentos).
-
----
-
-## 📊 **Atividade Complementar**
-Monte um pequeno circuito de **automação de iluminação**, comumente denominado **Mituteria Eletrônica**  onde a lâmpada acende automaticamente por alguns segundos após o pressionar de um botão pulsador (modo P-1).
 
 ---
 
