@@ -36,9 +36,7 @@ O funcionamento da minuteria eletrônica baseia-se em um circuito temporizador (
 
 O tempo de atuação pode variar de alguns segundos até vários minutos, dependendo dos valores dos componentes RC (resistores e capacitores) utilizados no projeto.
 
-O relé DK-C-01 é um relé temporizador eletrônico (minuteria industrial) utilizado para acionar cargas elétricas por tempo limitado, exatamente o mesmo princípio de funcionamento de uma minuteria eletrônica didática construída em bancada com componentes discretos e programáveis.
-
-Assim, o relé DK-C-01 representa a versão industrial e compacta do circuito de minuteria que o aluno pode desenvolver e compreender em laboratório.
+O relé DK-C-01 é um dispsit temporizador eletrônico (minuteria) programável utilizado para acionar cargas elétricas por tempo limitado, exatamente o mesmo princípio de funcionamento de uma minuteria eletrônica.
 
 ---
 
