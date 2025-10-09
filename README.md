@@ -101,8 +101,7 @@ Ele permite configurar tempos de **atraso de ativação, desligamento, ciclos re
 - Controle industrial: acionamento sequencial de motores e atuadores.
 - Temporizador de atraso: atraso de partida para equipamentos sensíveis.
 - Controle cíclico: sistemas de piscas, alarmes, ou equipamentos que exigem repetição de ciclos.
-
-*Projetos com Arduino, ESP32 e Raspberry Pi: controle de cargas com segurança elétrica isolada.* 
+- Projetos com Arduino, ESP32 e Raspberry Pi: controle de cargas com segurança elétrica isolada.
 
 ---
 
