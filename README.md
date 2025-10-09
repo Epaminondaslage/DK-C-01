@@ -6,7 +6,7 @@
 # Aula Prática – Minuteria Eletrônica-Módulo de Relé Temporizador Programável DK-C-01
 
 ## 🎯 **Título**
-Explorando as Funções do Módulo Temporizador Programável DK-C-01
+minuteria eletrônica com o Módulo Temporizador Programável DK-C-01
 
 <img src="img/relay box.jpg" alt="Módulo Relé DK-C-01" width="20%">
 
