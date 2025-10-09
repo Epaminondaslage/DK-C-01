@@ -136,7 +136,7 @@ Ele permite configurar tempos de **atraso de ativação, desligamento, ciclos re
 ---
 
 ### 🔹 Modo P-3 — Ciclo Automático (Loop)
-- ** relé liga ao energizar, desliga após o tempo definido e repete infinitamente.  
+- Relé liga ao energizar, desliga após o tempo definido e repete infinitamente.  
 
 ---
 
