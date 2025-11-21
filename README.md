@@ -1,12 +1,11 @@
-# CEFET-MG 
-## Departamento de Engenharia Elétrica
-## Curso Técnico de Eletrotécnica
-## Disciplina Laboratório de Instalações Pediais
+<td style="width: 10%;"><img src="https://github.com/Epaminondaslage/Lab-IoT-ELE-CEFET/blob/master/img/Logo_CEFET-MG.png" width="10%" /></td>
 
-# Aula Prática – Minuteria Eletrônica-Módulo de Relé Temporizador Programável DK-C-01
+## **CENTRO FEDERAL DE EDUCAÇÃO TECNOLÓGICA DE MINAS GERAIS**  
+## **Departamento de Engenharia Elétrica - CEFET-MG**  
+## **Coordenação do Curso de Eletrotécnica**  
 
-## 🎯 **Título**
-Minuteria eletrônica com o módulo temporizador programável DK-C-01
+## Disciplina: **PLIP - Prática de Laboratório de Instalações Prediais**
+## Guia de Aula – Minuteria eletrônica com o módulo temporizador programável DK-C-01
 
 <img src="img/relay box.jpg" alt="Módulo Relé DK-C-01" width="20%">
 
